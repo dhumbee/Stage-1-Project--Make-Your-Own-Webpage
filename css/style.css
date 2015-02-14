@@ -1,0 +1,39 @@
+*{
+    font-family:Candara;
+}
+ h1{
+  text-align:center;  
+}
+h3{
+  font-size:25px
+}
+h4{
+  text-align:center;
+  text-decoration:underline;
+  font-size:20px;
+}
+span{
+  font-size: 12px;
+}
+dt{
+  text-decoration:underline;
+}
+img{
+  border: 1px #666666 solid;
+  padding: 5px;
+  background-color: white;
+ }
+.mainheading{
+  background-color:#FFFFCC;
+  border: 2px black solid;
+	border-radius:20px;
+  padding:10px;
+}
+.subheadingbox{
+  background-color:#CCCCCC;
+  border: 1px #666666 solid;
+  padding: 5px;
+  margin: 10px;
+  border-radius:20px;
+}
+ 
